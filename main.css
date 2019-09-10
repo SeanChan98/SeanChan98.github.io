@@ -18,13 +18,13 @@ h1 {
 /* This changes color and removes default underline in links  */
 
 a {
-color: #69CBBB;
+color: #465ee3;
 text-decoration: none;
 }
 
 /* mouse over link */
 a:hover {
-      color: hotpink;
+      color: #d45759;
     }
 
 
