@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <title>Sean Chan</title>
+    <link rel="stylesheet" type="text/css" href="main.css">
+  </head>
+  <body>
+
+<body>
+  <div class="header">
+    <a href="index.html"><h1>Sean Chan</h1></a>
+    <ul>
+      <li>
+        <h3><a href="exercises.html">Premiere Exercises</a></h3></li>
+       <li>
+        <h3><a href="projects.html">Projects</a></h3></li>
+      <li>
+        <h3><a href="statement.html">Artist Statement</a></h3></li>
+      <li>
+        <h3><a href="contact.html">Contact</a></h3></li>
+    </ul>
+  </div>
+
+  <div class="portfolio-item">
+    <div class="embed-container"><img src="Gif1.gif"></div>
+    <h3>Gif 1 - Seamless Loop, Premiere Pro, 2019</h3>
+  </div>
+   <div class="portfolio-item">
+    <div class="embed-container"><img src="Gif2.gif"></div>
+    <h3>Gif 2 - Reaction, Premiere Pro, 2019</h3>
+  </div>
+  <div class="portfolio-item">
+    <div class="embed-container"><img src="Gif3.gif"></div>
+    <h3>Gif 3 - Gif You Can Hear, Premiere Pro, 2019</h3>
+  </div>
+  <div class="portfolio-item">
+    <div class="embed-container"><img src="Gif4.gif"></div>
+    <h3>Gif 4 - Whatever I Want, Premiere Pro, 2019</h3>
+  </div>
+
+
+  </body>
+</html>
